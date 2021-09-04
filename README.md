@@ -1,7 +1,7 @@
 # Calculator
 
 ## Challenge n°4
-Une calculatrice revisitée pour s'exercer à la manipulation des states.
+Une calculatrice revisitée pour s'exercer à la manipulation des states.  
 2 + 2 = ? 🤓
 
 ## Demo
