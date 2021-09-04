@@ -11,6 +11,7 @@ https://calculator-copperdev.vercel.app/
 
 - React JS
 - React Hook
+- React Context
 - styled-components
 
 ## Installation
